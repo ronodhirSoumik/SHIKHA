@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pullable
+  - ground
+  - gunda
+  - item
+  - executable object
+  - backgroundImage
+  - tree
+  - dog
+  - light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Dark
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2914716707
+    locked: 0
+  - name: Dark
+    uniqueID: 1053937585
+    locked: 0
+  - name: Player
+    uniqueID: 1965502505
+    locked: 0
+  - name: Foreground
+    uniqueID: 1069601037
+    locked: 0
