@@ -1,5 +1,11 @@
-# SHIKHA is a RPG game. It takes you to a journay of a young girl who was kidnapped alog with her some friends. Somehow she manged to escape and now trying to save her friends. Overall length of the game is 10-15 minutes.
-# Some previews-
+# SHIKHA
+
+Shikha is a RPG game. It takes you to a journay of a young girl who was kidnapped alog with her some friends. Somehow she manged to escape and now trying to save her friends. Overall length of the game is 10-15 minutes.
+
+## Background
+The game is built with Unity (backend C#).  All the assests are designed using Illustrator and Coral Painter Essentials.
+
+## Some previews-
 
 Intro/Story-
 
